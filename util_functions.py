@@ -16,7 +16,7 @@ osc_param = {
 
 rho_matter = 2.45
 
-flux_file = "/home/bjelmini/JUNO_u/Analysis/ORSA/INSS2023/ReactorAntineutrinoFluxShape.txt"
+flux_file = "./ReactorAntineutrinoFluxShape.txt"
 
 
 def sin2(x_, dm2_):
